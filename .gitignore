@@ -1,0 +1,9 @@
+# Données sources : à ne pas publier sans accord du producteur
+data/*.xlsx
+data/*.shp
+data/*.geojson
+# Sorties R régénérables
+sorties_indice_risque/
+.Rhistory
+.RData
+.DS_Store
